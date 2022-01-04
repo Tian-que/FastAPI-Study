@@ -1,1 +1,6 @@
 fastapi-tutorial-master/
+.venv/
+poetry.lock
+pyproject.toml
+*__pycache__
+*.pyc
